@@ -10,6 +10,14 @@
       "StackName": "amplify-lcsblog-dev-143241",
       "StackId": "arn:aws:cloudformation:us-east-1:950232154547:stack/amplify-lcsblog-dev-143241/fdbec2b0-c781-11ee-8edc-12c356fbcded",
       "AmplifyAppId": "d71j2umcrxl67"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d71j2umcrxl67",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
